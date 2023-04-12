@@ -4,7 +4,7 @@ Immortal - a simple helpful bot designed to simplify and improve your Discord se
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Download the repository, go to the project folder and Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
 ```bash
 git clone https://github.com/tllnll/Immortal_bot.git

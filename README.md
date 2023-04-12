@@ -1,6 +1,6 @@
-# Immortal
+# IMMORTAL
 
-Immortal is a Discord bot designed to simplify and improve your Discord server. With features like message logging, custom commands, and user verification, Immortal is perfect for private use on a single server.
+Immortal is a Discord bot designed to simplify and improve your Discord server. With features like message logging, custom commands, and user verification and punishment, Immortal is perfect for private use on a single server.
 
 ## Installation
 

@@ -1,28 +1,44 @@
-# IMMORTAL
+Sure, I can definitely help you with that! Here's an updated and modern design for your README:
 
-Immortal - a simple helpful bot designed to simplify and improve your Discord server. With management features like message logging, custom commands, and user verification, Please note that Immortal is intended for private use and can only be used on a single server.
+# Immortal
+
+Immortal is a Discord bot designed to simplify and improve your Discord server. With features like message logging, custom commands, and user verification, Immortal is perfect for private use on a single server.
 
 ## Installation
 
-Download the repository, go to the project folder and Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+1. Clone the repository:
+   ```
+   git clone https://github.com/tllnll/Immortal_bot.git
+   ```
 
-```bash
-git clone https://github.com/tllnll/Immortal_bot.git
+2. Navigate to the project folder:
+   ```
+   cd immortal_bot
+   ```
 
-cd immortal_bot
-
-pip install -r requirements.txt
-```
+3. Install the required dependencies using pip:
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-```bash
+
+To start the bot, simply run the following command in your terminal:
+```
 python main.py
 ```
-OR
-```bash
+
+Alternatively, if you have Python 3 installed, you can run:
+```
 python3 main.py
 ```
 
+## Features
+
+- Custom commands: Create your own custom commands to make your server more interactive.
+- Message logging: Keep track of all the messages sent in your server.
+- User verification: Verify users before giving them access to your server's channels.
+
 ## License
 
-[LICENSE.md](https://github.com/tllnll/Immortal_bot/blob/main/LICENSE.md/)
+Immortal is licensed under the [MIT License](https://github.com/tllnll/Immortal_bot/blob/main/LICENSE.md).
